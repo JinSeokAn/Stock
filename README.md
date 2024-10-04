@@ -9,11 +9,11 @@
 ## Usage 📜
 To use the API, you can send requests to the following server:
 
-**API Server**: [http://js960629.ddns.net:1140/api/test](http://js960629.ddns.net:1140/api/test)
+**API Server**: [http://js960629.ddns.net:1140/test/get](http://js960629.ddns.net:1140/test/get)
 
 ### Request:
 ```bash
-GET http://js960629.ddns.net:1140/api/test
+GET http://js960629.ddns.net:1140/test/get
 
 
 
