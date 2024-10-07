@@ -3,42 +3,25 @@
 > A brief description of your project goes here.
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/github/workflow/status/owner/repo/CI)
+![Build Status](https://img.shields.io/github/actions/workflow/status/owner/repo/ci.yml)
 ![Version](https://img.shields.io/badge/version-1.0-green.svg)
 
-## Usage 📜
-To use the API, you can send requests to the following server:
+## 📚 Table of Contents
+- [Features](#features-✨)
+- [Installation](#installation-⚙️)
+- [Usage](#usage-📜)
+- [Contributing](#contributing-🤝)
+- [License](#license-📄)
 
-**API Server**: [http://js960629.ddns.net:1140/test/get](http://js960629.ddns.net:1140/test/get)
-<br/>
-**WAS Server**: [http://js960629.ddns.net:1140/test/get](http://js960629.ddns.net:1140/test/get)
-<br/>
-**WEB Server**: [http://js960629.ddns.net](http://js960629.ddns.net)
-
-### Request:
-```bash
-GET http://js960629.ddns.net:1140/test/get
-
-
-
-
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features ✨
+## ✨ Features
 - 🔥 Fast and lightweight
-- 🛠️ Easy to integrate
+- 🔧 Easy to integrate
 - 💻 Cross-platform support
 
-
-## Installation ⚙️
+## ⚙️ Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/JinSeokAn/Stock_WEB.git
     ```
 2. Install dependencies:
     ```bash
@@ -49,7 +32,16 @@ GET http://js960629.ddns.net:1140/test/get
     npm start
     ```
 
-## Usage 📜
+## 📜 Usage
+To use the API, you can send requests to the following server:
+
+**API Server**: [http://js960629.ddns.net:1140/test/get](http://js960629.ddns.net:1140/test/get)  
+**WAS Server**: [http://js960629.ddns.net:1140/test/get](http://js960629.ddns.net:1140/test/get)  
+**WEB Server**: [http://js960629.ddns.net](http://js960629.ddns.net)
+
+
+
+### Example:
 ```javascript
 import { myFunction } from 'my-awesome-library';
 
